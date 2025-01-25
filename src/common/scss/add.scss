@@ -1,0 +1,115 @@
+/* Add component */
+
+.add {
+    display: flex;
+    flex-direction: column;
+    margin-top: 52px;
+    width: 98%;
+    margin-left: auto;
+    margin-right: auto;
+    .add__form {
+        flex-basis: 1 100%;
+        padding-left: 1px;
+        padding-right: 1px;
+        margin-bottom: 10px;
+        .add__form__select {
+            position: relative;
+            display: inline-block;
+            width: 25%;
+            background: #fff;
+            border: 1px solid #dfdfdf;
+            border-radius: none;
+        }
+        .add__form__select::after {
+            position: absolute;
+            top: 0;
+            right: 4px;
+            font-size: 20px;
+            line-height: 60%;
+            transform: translateY(60%);
+            content: 'keyboard_arrow_down';
+            font-family: 'material icons';
+            pointer-events: none;
+        }
+        select {
+            height: 24px;
+            width: 100%;
+            padding-left: 10px;
+            cursor: auto;
+            border: 0;
+            background: transparent;
+            font-size: 14px;
+            appearance: none;
+            -moz-appearance: none;
+            -webkit-appearance: none;
+            outline: none;
+        }
+        .add__form__input {
+            display: inline-block;
+            width: 25%;
+            background: #fff;
+            border: 1px solid #dfdfdf;
+            border-radius: none;
+        }
+        input {
+            height: 24px;
+            width: 100%;
+            font-size: 14px;
+            padding-left: 10px;
+            cursor: auto;
+            border: 0;
+            background: transparent;
+            appearance: none;
+            -moz-appearance: none;
+            -webkit-appearance: none;
+            outline: none;
+        }
+        input:focus {
+            background-color: #F5FFFA;
+        }
+        button {
+            height: 26px;
+            width: 25%;
+            background-color: #1279E6;
+            color: #fff;
+            font-size: 14px;
+            cursor: pointer;
+            border: none;
+        }
+        button:hover {
+            background-color: #0058b6;
+        }
+        button:focus {
+            outline: none;
+        }
+    }
+    .table__container {
+        flex-basis: 1 100%;
+        overflow:auto;
+        height: 65vh;
+    }
+
+    .table__container::-webkit-scrollbar {
+        width: 0 !important
+    }
+
+    table {
+        width: 100%;
+        font-size: 14px;
+        th {
+            font-weight: normal;
+            color: #fff;
+            background-color: #000;
+            padding: 4px 0;
+            text-align: center;
+            width: 25%;
+        }
+        td {
+            background-color: #dfdfdf;
+            padding: 4px 0 4px 10px;
+            text-align: left;
+            margin: 0.5px;
+            width: 25%;
+        }
+    }
+}

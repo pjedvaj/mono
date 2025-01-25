@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "makeId": 1,
+        "modelName": "Audi A1 Sportback",
+        "modelAbrv": "A1S"
+        },
+    {
+        "id": 2,
+        "makeId": 2,
+        "modelName": "BMW 1-Series 3-door",
+        "modelAbrv": "1S3"
+        },
+    {
+        "id": 3,
+        "makeId": 3,
+        "modelName": "Mercedes A-Class Sedan",
+        "modelAbrv": "ACS"
+        },
+    {
+        "id": 4,
+        "makeId": 1,
+        "modelName": "Audi A3 Limousine",
+        "modelAbrv": "A3L"
+        },
+    {
+        "id": 5,
+        "makeId": 2,
+        "modelName": "BMW 2-Series Coupe",
+        "modelAbrv": "2SC"
+        },
+    {
+        "id": 6,
+        "makeId": 3,
+        "modelName": "Mercedes C-Class Coupe",
+        "modelAbrv": "CCC"
+        },
+    {
+        "id": 7,
+        "makeId": 1,
+        "modelName": "Audi A4 Avant",
+        "modelAbrv": "A4A"
+        },
+    {
+        "id": 8,
+        "makeId": 2,
+        "modelName": "BMW 3-Series Touring",
+        "modelAbrv": "3ST"
+        },
+    {
+        "id": 9,
+        "makeId": 3,
+        "modelName": "Mercedes E-Class Wagon",
+        "modelAbrv": "ECW"
+        },
+    {
+        "id": 10,
+        "makeId": 2,
+        "modelName": "BMW X1 xDrive",
+        "modelAbrv": "X1D"
+        },
+    {
+        "id": 11,
+        "makeId": 3,
+        "modelName": "Mercedes CLS Class",
+        "modelAbrv": "CLS"
+        },
+    {
+        "id": 12,
+        "makeId": 2,
+        "modelName": "BMW 6-Series Convertible",
+        "modelAbrv": "6SC"
+        },
+    {
+        "id": 13,
+        "makeId": 1,
+        "modelName": "Audi TT Roadster",
+        "modelAbrv": "TTR"
+        },
+    {
+        "id": 14,
+        "makeId": 1,
+        "modelName": "Audi S6 Avant",
+        "modelAbrv": "S6A"
+        },
+    {
+        "id": 15,
+        "makeId": 3,
+        "modelName": "Mercedes SLK AMG",
+        "modelAbrv": "SLK"
+        },
+    {
+        "id": 16,
+        "makeId": 2,
+        "modelName": "BMW Z4 Roadster",
+        "modelAbrv": "Z4R"
+        },
+    {
+        "id": 17,
+        "makeId": 3,
+        "modelName": "Mercedes G-Class",
+        "modelAbrv": "MGC"
+        },
+    {
+        "id": 18,
+        "makeId": 1,
+        "modelName": "Audi R8 Spyder",
+        "modelAbrv": "R8S"
+        }
+]

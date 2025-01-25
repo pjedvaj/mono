@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "makeName": "Audi",
+        "makeAbrv": "AUD"
+        },
+    {
+        "id": 2,
+        "makeName": "BMW",
+        "makeAbrv": "BMW"
+        },
+    {
+        "id": 3,
+        "makeName": "Mercedes-Benz",
+        "makeAbrv": "MBZ"
+        }
+]
